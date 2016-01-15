@@ -1,0 +1,17 @@
+.caja1{
+	width: 210px;
+	height: 250px;
+    border: 2px solid red;
+    text-align: center rigth;
+}
+div{
+	text-align: center right;
+	padding:7px;
+	margin:10px;
+}
+h3{
+	text-align: left;
+}
+p{
+	font-family: Arial;
+}
